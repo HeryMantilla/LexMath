@@ -1,4 +1,4 @@
-# ![LexMath](./favicon.png | width=32) LexMath  1.0
+# ![LexMath](./favicon.png =32x32) LexMath  1.0
 
 <h2>Operators &amp; Functions</h2>
 <h3>Single Operators</h3>
