@@ -1,6 +1,6 @@
-# modLex
+# modLex  1.0
 
-<h1><img style="vertical-align:middle;" src="./favicon.png" /> modLex 1.0</h1>
+<img style="vertical-align:middle;" src="./favicon.png" />
 <h2>Operators &amp; Functions</h2>
 <h3>Single Operators</h3>
 <table class="table">
