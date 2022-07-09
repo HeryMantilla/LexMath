@@ -1,6 +1,8 @@
 # LexMath  1.0
 ![LexMath](./favicon.png = 32x32)
 
+[[ ./favicon.png \| height=48px]]
+
 <h2>Operators &amp; Functions</h2>
 <h3>Single Operators</h3>
 <table class="table">
