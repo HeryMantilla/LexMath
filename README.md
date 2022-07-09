@@ -406,7 +406,7 @@ PI = 3.1415926535897931<br />
 E&nbsp; = 2.71828182845905
 <hr>
 <h3>Examples</h3>
-
+[code]
 require_once('./modLex.php');
 
 $lex = new LexMath();
@@ -420,3 +420,4 @@ echo $lex->Calc('(-5 + 3)', true) . '<br />';
 echo $lex->Calc('(-5 + 3) / -5 * (-2.5) + 6', true) . '<br />';
 echo $lex->Calc('PI', true) . '<br />';
 echo $lex->Calc('E', true) . '<br />';
+[/code]
