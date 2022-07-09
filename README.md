@@ -1,5 +1,5 @@
 # LexMath  1.0
-![LexMath](./favicon.png){:height="32px" width="32px"}
+![LexMath](./favicon.png = 32x32)
 
 <h2>Operators &amp; Functions</h2>
 <h3>Single Operators</h3>
