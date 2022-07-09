@@ -1,4 +1,4 @@
-# modLex  1.0
+# LexMath  1.0
 
 <img style="vertical-align:middle;" src="./favicon.png" />
 <h2>Operators &amp; Functions</h2>
