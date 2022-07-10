@@ -414,7 +414,7 @@ E&nbsp; = 2.71828182845905
 <h3>Examples</h3>
 
 ```php
-require_once('./modLex.php');
+require_once('./lexmath.php');
 
 $lex = new LexMath();
 
