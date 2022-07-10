@@ -1,11 +1,10 @@
 # <img style="vertical-align:middle;" alt="LexMath" src="./favicon.png" width="32" height="34"> LexMath  1.0
 
-By DreamVB
-Converted to PHP by HACKPRO TM (C) 2008-2009
-Versión: 1.0
-All rights reserved
- ------------------------------------------
-@author Heriberto Mantilla Santamaría
+> By DreamVB<br/>
+Converted to PHP by HACKPRO TM (C) 2008-2009<br/>
+Versión: 1.0<br/>
+All rights reserved<hr>
+@author Heriberto Mantilla Santamaría<br/>
 @version 1.0
 
 <h2>Operators &amp; Functions</h2>
