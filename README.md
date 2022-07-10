@@ -1,4 +1,5 @@
 # <img style="vertical-align:middle;" alt="LexMath" src="./favicon.png" width="32" height="34"> LexMath  1.0
+**IMPORTANT NOTE: First and last Release.**
 
 > By DreamVB<br/>
 Converted to PHP by HACKPRO TM (C) 2008-2009<br/>
