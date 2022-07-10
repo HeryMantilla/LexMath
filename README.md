@@ -411,13 +411,13 @@ require_once('./modLex.php');
 
 $lex = new LexMath();
 
-echo $lex->Calc('2 + 2 * (5 + 5)', true) . '<br />';
-echo $lex->Calc('8+1/7*4+(9*4+1*(2+8))*6', true) . '<br />';
-echo $lex->Calc('15 MOD 2', true) . '<br />';
-echo $lex->Calc('2 ^ 2', true) . '<br />';
-echo $lex->Calc('15 % 2', true) . '<br />';
-echo $lex->Calc('(-5 + 3)', true) . '<br />';
-echo $lex->Calc('(-5 + 3) / -5 * (-2.5) + 6', true) . '<br />';
-echo $lex->Calc('PI', true) . '<br />';
-echo $lex->Calc('E', true) . '<br />';
+echo $lex->Calc('2 + 2 * (5 + 5)', true);
+echo $lex->Calc('8+1/7*4+(9*4+1*(2+8))*6', true);
+echo $lex->Calc('15 MOD 2', true);
+echo $lex->Calc('2 ^ 2', true);
+echo $lex->Calc('15 % 2', true);
+echo $lex->Calc('(-5 + 3)', true);
+echo $lex->Calc('(-5 + 3) / -5 * (-2.5) + 6', true);
+echo $lex->Calc('PI', true);
+echo $lex->Calc('E', true);
 ```
